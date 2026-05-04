@@ -44,6 +44,6 @@ Learning and reference\
 Organized documentation of experiments
 
 Author\
-N Yugesh\
+Amandeep\
 B.Tech CSE Core\
 Semester 6
